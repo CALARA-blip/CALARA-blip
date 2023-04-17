@@ -1,7 +1,6 @@
 ###  5 FUN FACTS ABOUT ME!
 
 <!--
-**CALARA-blip/CALARA-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Third Year BSIT at Central Philippine University.
 
